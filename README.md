@@ -1,2 +1,3 @@
 # az400
-testing
+everything azure
+certification related testing and pipelines
